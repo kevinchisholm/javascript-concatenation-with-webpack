@@ -1,0 +1,14 @@
+{
+  "name": "javascript-concatenation-with-webpack",
+  "version": "1.0.0",
+  "description": "Running a build with webpack",
+  "author": "Kevin Chisholm",
+  "license": "MIT",
+  "devDependencies": {
+    "webpack": "2.2.1"
+  },
+  "dependencies": {
+    "to-capital-case": "1.0.0",
+    "pretty-ms" : "2.1.0"
+  }
+}
